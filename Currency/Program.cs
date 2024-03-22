@@ -22,6 +22,8 @@ namespace Program
             //Pound Pound = new Pound("Pound");
             //Console.WriteLine(Pound.ReturnRateFromApi());
 
+            //Byn Byn = new Byn("Byn");
+            //Console.WriteLine(Byn.ReturnRateFromApi());
 
             //IFactory factory = new UEFactory();
             //Currency Niscurrency = factory.CreateCurrency("Nis");
@@ -31,7 +33,7 @@ namespace Program
             //Console.WriteLine(CurrencyCalculator.EUFactory(10, "Pound"));
 
 
-            Console.WriteLine(CurrencyCalculatorForUEandAsia.EUandAsiaCurrencies(10, "Rub"));
+            Console.WriteLine(CurrencyCalculatorForUEandAsia.EUandAsiaCurrencies(1, "Byn"));
             
 
             

@@ -25,6 +25,7 @@ namespace Program.Utilities
                 case "Nis":
                 case "Pound":
                 case "Rub":
+                case "Byn":
                     return EUFactory;
 
                 case "Jpy":

@@ -27,3 +27,4 @@ C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0
 C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.pdb
 C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.genruntimeconfig.cache
 C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\ref\Program.dll
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.sourcelink.json

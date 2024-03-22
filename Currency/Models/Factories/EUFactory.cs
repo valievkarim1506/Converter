@@ -19,6 +19,8 @@ namespace Program.Models
                     return new Pound("Pound");
                 case "Rub":
                     return new Rub("Rub");
+                case "Byn":
+                    return new Byn("Byn");
                     default:
                     throw new ArgumentException("Invalid currency type");
 

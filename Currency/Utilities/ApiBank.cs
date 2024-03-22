@@ -13,13 +13,15 @@ namespace Program.Interfaces.Utilities
             switch (Currency)
             {
                 case "Nis":
-                    return 3.6;
+                    return 2.5;
                 case "Rub":
-                    return 70;
+                    return 92;
                 case "Pound":
                     return 0.8;
                 case "Jpy":
                     return 0.007;
+                case "Byn":
+                    return 3.2;
                 default:
                     throw new ArgumentException("Invalid currency type");
             }
