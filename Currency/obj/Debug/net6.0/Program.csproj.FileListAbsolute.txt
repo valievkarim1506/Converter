@@ -1,0 +1,29 @@
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\bin\Debug\net6.0\Program.exe
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\bin\Debug\net6.0\Program.deps.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\bin\Debug\net6.0\Program.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\bin\Debug\net6.0\Program.pdb
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\refint\Program.dll
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.pdb
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\007\Desktop\coding\PRACTICE\Practice projects\Console Projects\Currency\Currency\obj\Debug\net6.0\ref\Program.dll
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\bin\Debug\net6.0\Program.exe
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\bin\Debug\net6.0\Program.deps.json
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\bin\Debug\net6.0\Program.runtimeconfig.json
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\bin\Debug\net6.0\Program.dll
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\bin\Debug\net6.0\Program.pdb
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.AssemblyInfo.cs
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.dll
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\refint\Program.dll
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.pdb
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\Program.genruntimeconfig.cache
+C:\Users\CHICKEN KARI\Desktop\CurrencyConverter-master\Currency\obj\Debug\net6.0\ref\Program.dll
